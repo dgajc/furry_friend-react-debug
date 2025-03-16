@@ -13,7 +13,7 @@ import "./assets/productlist.scss";
 import "./assets/banners.scss";
 import "./assets/members.scss";
 //下面這行
-// import "./productpage.scss"
+// import "./productdetailpage.scss"
 import "./assets/cartpage.scss";
 import "./assets/checkoutform.scss";
 import "./assets/checkoutpayment.scss";
